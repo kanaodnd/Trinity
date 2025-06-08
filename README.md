@@ -8,7 +8,6 @@
 <div align="center">
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-6f42c1?style=for-the-badge&logo=apache&logoColor=white&labelColor=0D1117)](LICENSE) 
-[![Release](https://img.shields.io/github/v/release/kanaodnd/Stellar-Tweaks?color=6f42c1&labelColor=0D1117&style=for-the-badge&logo=github)](https://github.com/kanaodnd/Stellar-Tweaks/releases)
 
 </div>
 
