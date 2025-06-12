@@ -33,6 +33,4 @@
 
 ## Main effect highlights
 ```bash
-1 - More faster? or more Saving battery?
-2 - Just flash and see, not again complicated!
-3 - The performance you need, no need to confuse!
+Simple Optimization For Userspace Without Leave Battery Side!
