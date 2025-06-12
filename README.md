@@ -29,8 +29,15 @@
 
 [![Donate](https://img.shields.io/badge/Support-Our_Project-6f42c1?style=for-the-badge&logo=heart&logoColor=white&labelColor=0D1117)](https://t.me/Ranblings/13)
 
-
+## FAQS(?)
+```
+Q: What does this module do?
+A: Optimize entire phone, out of box
+```
 
 ## Main effect highlights
-```bash
+```
 Simple Optimization For Userspace Without Leave Battery Side!
+```
+
+kontol
