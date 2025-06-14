@@ -1,5 +1,5 @@
 # ✨ Trinity 
-*Trinity is a simple scheduling userspace for maintaining the battery for good health, beside keep balance the performance.*  
+*Trinity's is a Simple userspace scheduling, maintaining the half of performance, Focusing battery in good periods without leave balancing.*  
 
 <div align="center">
 <img src="https://github.com/kanaodnd/kanaokturu/blob/main/New%20Element%2024%20%5B5DB41A9%5D.png" alt="Gambar">
