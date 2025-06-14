@@ -2,7 +2,7 @@
 *Trinity is a simple scheduling userspace for maintaining the battery for good health, beside keep balance the performance.*  
 
 <div align="center">
-<img src="https://github.com/kanaodnd/kanaokturu/raw/main/a740af124b50737a86e4c4782ed9c4c7.jpg" alt="Gambar">
+<img src="https://github.com/kanaodnd/kanaokturu/blob/main/New%20Element%2024%20%5B5DB41A9%5D.png" alt="Gambar">
 </div>
 
 <div align="center">
@@ -29,6 +29,9 @@
 
 [![Donate](https://img.shields.io/badge/Support-Our_Project-6f42c1?style=for-the-badge&logo=heart&logoColor=white&labelColor=0D1117)](https://t.me/Ranblings/13)
 
+## Flash And Forget
+*We Know The Simple it is, more comfortable for anyone! we decided for bringing simplest ever have been!*
+
 ## FAQS(?)
 ```
 Q: What does this module do?
@@ -40,4 +43,3 @@ A: Optimize entire phone, out of box
 Simple Optimization For Userspace Without Leave Battery Side!
 ```
 
-kontol
